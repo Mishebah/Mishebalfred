@@ -1,0 +1,198 @@
+{
+  "main": {
+    "name":"Misheba Alfred",
+    "occupation":"Information Technologist",
+    "description":"I earned my bachelor’s degree in Information Sciences, Information Technology specialty from Moi University  Kenya at the end of year 2018. I have knowledge of both theoretical and practical ability, to help develop new technology to solve many of the problems associated with the current technology industry.",
+    "image":"profilepic.jpg",
+    "bio":"During my undergraduate studies, I have enjoyed the opportunity to explore various technologies including PHP,YII Frameworks,Javascript,React Library,MYSQL,NodeJS,Linux Systems,Git,Network-Subneting,HTML5,CSS,Bootstrap,Project-Management,Information-Systems Management,Library And Archiving,Media And Marketing. I have also worked as an Technology intern at Public Works which made me acquire solid knowledge in I.T Support,Network Configurations and Hardware Maintenance and Installation.I have worked as a software intern at Diwecs Business Solutions which has to late, enabled me acquire software engineering skills that can use to solve current Information Technology problems in the market. \n\n",
+    "contactmessage":"If you have any questions, or you just feel like talking to me, please feel free to drop me a line. If you don't get an answer immediately, I might just be travelling through the middle of nowhere. I'll get back to you as soon as I can. That's a promise! .",
+    "email": "mishebalfred@gmail.com",
+    "phone": "+254-704-71-6989",
+    "linkedin": "https://www.linkedin.com/in/misheba-alfred",
+    "address":{
+      "street":"Imara Daima Grevillea",
+      "city":"Nairobi",
+      "state":"Kenya",
+      "zip": "60567-00200"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"cv.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://web.facebook.com/misheba.alfred.9",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/alfred_misheba",
+        "className":"fa fa-twitter"
+      },
+
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/misheba-alfred",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/aruves_alf_mish",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Mishebah",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com/mishebalfred",
+        "className":"fa fa-skype"
+      },
+      {
+        "name":"youtube",
+        "url":"https://www.youtube.com/channel/UCygbSA5WwG53WI1169MSs2g",
+        "className":"fa fa-youtube"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Core Competencies",
+    "education":[
+      {
+        "school":"Moi University",
+        "degree":"Bachelors Degree Information Sciences-Information Technology Specialty (Second Class Upper Division)",
+        "graduated":"Graduant of: December 2018",
+        "description":"Besides the technologies described above,in the about section, I did a USSD system as my fourth year final project.The project is hosted at my github account for more details "
+      },
+      {
+        "school":"Moi University Nairobi Campus",
+        "degree":"Certificate in Functional Programming: Java(Lambdas) ",
+        "graduated":" Date: February 2019",
+        "description":"Through writing simple code snippets, I was able to fully with the other team members understand the functional programming in the object oriented world of Java.So amazing! The sample code snippets can be obtained from my github account."
+      },
+      {
+        "school":"Masinde Muliro University Of Sciences And Technology",
+        "degree":"Certificate in Advanced Form Development: Javascript and HTML5",
+        "graduated":"Date: Match 2018",
+        "description":"With team work, I enjoyed the beauty and power of HTML5 and JAvaScript in form development."
+      },
+      {
+        "school":"Saint Peters Mumias Boys High School",
+        "degree":"KCSE MeanGrade (B+)",
+        "graduated":" Date of Completion: November 2012",
+        "description":"Beside academic activities,its from this place that gained leadership skills and beauty of playing games !Hockey and Soccer were my leisure! I miss the place haha!."
+      }
+    ],
+    "work":[
+
+      {
+        "company":"Diwecs Business Solutions",
+        "title":"Software Engineer",
+        "years":"March 2019 -   June 2019",
+        "description":" Completed half a ticketing web application project. Completed mobile payment service (mpesa) configuration into an existing web site system.Developed front-end software using frameworks including  React and Ajax.Offered application support for existing applications."
+      },
+      {
+        "company":"State Department of Public Works ",
+        "title":"Information Technology Intern",
+        "years":"August2018 - December 2018",
+        "description":"Activities Covered: Networking (Installation and Configuration of Routers, L.A.N and W.A.N Configurations, Installation and Configuration of Switches).\n Computer Repair and Maintenance, Installation and Updating Software(s), Installation and Configuration of printers.\n Office Techlogies Support was the order of day.It made me a hardware Guru."
+      },
+      {
+        "company":"Uwezo Kenya",
+        "title":"Data Enumerator",
+        "years":"September 2014 - December 2014.",
+        "description":"Here,I got a platform to portray my ability in research and data collection.\n      The results obtained were productive as they played part in developing new curriculum in the lower(Primary) education system."
+      }
+    ],
+    "skills":[
+      {
+
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"Linux System",
+        "level":"85%"
+      },
+      {
+        "name":"Windows System",
+        "level":"90%"
+      },
+      {
+        "name":"React Js",
+        "level":"70%"
+      },
+      {
+        "name":"Apache",
+        "level":"90%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"85%"
+      },
+      {
+        "name":"Core PHP",
+        "level":"85%"
+      },
+      {
+        "name":"YII Framework",
+        "level":"85%"
+      },
+      {
+        "name":"MySql",
+        "level":"85%"
+      },
+      {
+        "name":"CentOS Server",
+        "level":"85%"
+      },
+      {
+        "name":"Network Subnetting",
+        "level":"80%"
+      },
+      {
+        "name":"Router Configuration",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+
+
+      {
+        "title":"Misheba Resume Website",
+        "category":"A React based resume website",
+        "image":"resume-website.jpg",
+        "url":"#"
+      },
+      {
+        "title":"Content Management",
+        "category":"(Ofline now)Yii2 Framework System That allows users to buy Content through test messaging.",
+        "image":"yii2.jpg",
+        "url":""
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I'm glad that you (Misheba) took up BS Information Technology. Your way of doing things in the computer world has been great . My own perception about BSIT is that it's a combination of Programming, Multimedia, Networking, and Business; which you portray in your work implementation.I am happy ",
+        "user":"Dr. Oyamo"
+      },
+      {
+        "text":"My experience with Misheba Alfred has been the most wonderful.",
+        "user":"Wyclife Kisongochi."
+      }
+    ]
+  }
+}
