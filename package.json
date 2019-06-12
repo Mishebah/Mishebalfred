@@ -2,11 +2,10 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Mishebah/Mishebah.github.io.git",
+  "homepage": "http://Mishebah.github.io/Mishebalfred",
   "dependencies": {
     "axios": "^0.19.0",
     "emailjs-com": "2.3.2",
-    "gh-pages": "^2.0.1",
     "jquery": "^3.4.1",
     "js-file-download": "^0.4.7",
     "react": "^16.8.6",
@@ -21,6 +20,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
@@ -37,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
